@@ -1,1 +1,1 @@
-https://Goozie-stack.github.io/rsschool-cv/cv
+https://goozie-stack.github.io/rsschool-cv/cv
